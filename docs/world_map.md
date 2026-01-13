@@ -195,7 +195,7 @@ This may function as:
 - A traditional Elite Four structure
 - Or a hunt for the region’s strongest trainers
 
-Final structure to be decided later.
+Final structure to be decided later. yaaaaaaa
 
 ---
 
