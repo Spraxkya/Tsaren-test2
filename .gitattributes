@@ -1,7 +1,7 @@
 * text=auto eol=lf
-
 *.sh text eol=lf
-
+*.map text eol=lf
+*.layout text eol=lf
 *.png binary
 *.gif binary
 *.jpg binary
